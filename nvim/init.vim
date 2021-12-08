@@ -14,14 +14,14 @@ call plug#begin()
 " -Core- "
 
 Plug 'tpope/vim-surround' " Surrounding ysw)
-Plug 'preservim/nerdtree' " NerdTree
+Plug 'preservim/nerdtree' " NERDTree
 Plug 'tpope/vim-commentary' " For Commenting gcc & gc
 Plug 'vim-airline/vim-airline' " Status bar
 Plug 'rafi/awesome-vim-colorschemes' " Retro Scheme
 Plug 'neoclide/coc.nvim'  " Auto Completion
 Plug 'ryanoasis/vim-devicons' " Developer Icons
 Plug 'tc50cal/vim-terminal' " Vim Terminal
-Plug 'preservim/tagbar' " Tagbar 1for code navigation
+Plug 'preservim/tagbar' " Tagbar for code navigation
 Plug 'terryma/vim-multiple-cursors' " CTRL + N for multiple cursors
 
 " -Specifics- "
